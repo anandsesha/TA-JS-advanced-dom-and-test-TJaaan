@@ -1,4 +1,4 @@
-## Quotes on scroll
+    ## Quotes on scroll
 
 - Create a infinite scroll quote page using the `scroll` type of event listener
 - There is a file in this folder named `quotes.js` use it as a data source
