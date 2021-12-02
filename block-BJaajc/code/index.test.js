@@ -41,6 +41,3 @@ test('to test if Area is correct', () => {
 test('to test if Area is correct', () => {
   expect(index.getArea(3)).toBe(12.566370614359172);
 });
-test('to test if Area is correct', () => {
-  expect(index.getArea(3)).toBe(12);
-});
